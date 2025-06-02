@@ -1,6 +1,6 @@
 module github.com/cosmos/gaia/v6
 
-go 1.17
+go 1.21.0
 
 require (
 	github.com/cosmos/cosmos-sdk v0.44.3
@@ -8,7 +8,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/gravity-devs/liquidity v1.4.2
 	github.com/rakyll/statik v0.1.7
-	github.com/spf13/cast v1.4.1
+	github.com/spf13/cast v1.9.1
 	github.com/spf13/cobra v1.2.1
 	github.com/strangelove-ventures/packet-forward-middleware v1.0.1
 	github.com/stretchr/testify v1.7.0
