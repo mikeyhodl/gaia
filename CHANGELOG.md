@@ -9,6 +9,10 @@
 - Bump [go.opentelemetry.io/otel/sdk/metric](https://github.com/open-telemetry/opentelemetry-go) from 1.36.0 to 1.37.0 ([#3820](https://github.com/cosmos/gaia/pull/3820))
 - Bump [github.com/go-viper/mapstructure/v2](https://github.com/go-viper/mapstructure) from 2.2.1 to 2.3.0 ([#3813](https://github.com/cosmos/gaia/pull/3813))
 
+### Dependencies
+
+- Bump [cosmossdk.io/x/tx](https://github.com/cosmos/cosmos-sdk) from 0.14.0 to 1.1.0 ([#223](https://github.com/mikeyhodl/gaia/pull/223))
+
 ## v25.1.0
 
 *July 8, 2025*
