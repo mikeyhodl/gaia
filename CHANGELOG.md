@@ -9,6 +9,10 @@
 - Bump [go.opentelemetry.io/otel/sdk/metric](https://github.com/open-telemetry/opentelemetry-go) from 1.36.0 to 1.37.0 ([#3820](https://github.com/cosmos/gaia/pull/3820))
 - Bump [github.com/go-viper/mapstructure/v2](https://github.com/go-viper/mapstructure) from 2.2.1 to 2.3.0 ([#3813](https://github.com/cosmos/gaia/pull/3813))
 
+### Dependencies
+
+- Bump [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) from 1.27.0 to 2.1.1 ([#221](https://github.com/mikeyhodl/gaia/pull/221))
+
 ## v25.1.0
 
 *July 8, 2025*
