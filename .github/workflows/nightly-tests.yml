@@ -33,7 +33,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - name: Notify Slack on failure
-        uses: slackapi/slack-github-action@v2.1.1
+        uses: slackapi/slack-github-action@v3.0.5
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.NIGHTLY_E2E_SLACK_WEBHOOK_URL }}
           SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
