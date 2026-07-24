@@ -8,6 +8,10 @@
 
 ### DEPENDENCIES
 
+### Dependencies
+
+- Bump [fast-uri](https://github.com/fastify/fast-uri) from 3.0.6 to 3.1.4 ([#408](https://github.com/mikeyhodl/gaia/pull/408))
+
 ## v27.6.0
 
 *July 17, 2026*
