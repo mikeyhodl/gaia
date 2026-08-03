@@ -8,6 +8,10 @@
 
 ### DEPENDENCIES
 
+### Dependencies
+
+- Bump [actions/stale](https://github.com/actions/stale) from 10 to 11 ([#416](https://github.com/mikeyhodl/gaia/pull/416))
+
 ## v27.6.0
 
 *July 17, 2026*
