@@ -10,6 +10,10 @@
 
 ### DEPENDENCIES
 
+### Dependencies
+
+- Bump [JamesIves/github-pages-deploy-action](https://github.com/jamesives/github-pages-deploy-action) from 4.7.3 to 4.9.0 ([#429](https://github.com/mikeyhodl/gaia/pull/429))
+
 ## v28.0.0
 
 *August 7, 2026*
