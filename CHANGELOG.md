@@ -10,6 +10,10 @@
 
 ### DEPENDENCIES
 
+### Dependencies
+
+- Bump [github.com/stretchr/testify](https://github.com/stretchr/testify) from 1.11.1 to 1.12.0 ([#427](https://github.com/mikeyhodl/gaia/pull/427))
+
 ## v28.0.0
 
 *August 7, 2026*
