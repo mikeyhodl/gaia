@@ -10,6 +10,10 @@
 
 ### DEPENDENCIES
 
+### Dependencies
+
+- Bump google.golang.org/protobuf from 1.36.11 to 1.36.12 ([#428](https://github.com/mikeyhodl/gaia/pull/428))
+
 ## v28.0.0
 
 *August 7, 2026*
