@@ -35,6 +35,10 @@
 
 ### DEPENDENCIES
 
+### Dependencies
+
+- Bump [github/codeql-action](https://github.com/github/codeql-action) from 4 to 4.37.4 ([#415](https://github.com/mikeyhodl/gaia/pull/415))
+
 ## v27.6.0
 
 *July 17, 2026*
