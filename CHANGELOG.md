@@ -35,6 +35,10 @@
 
 ### DEPENDENCIES
 
+### Dependencies
+
+- Bump [nanoid](https://github.com/ai/nanoid) from 3.3.8 to 3.3.18 ([#423](https://github.com/mikeyhodl/gaia/pull/423))
+
 ## v27.6.0
 
 *July 17, 2026*
