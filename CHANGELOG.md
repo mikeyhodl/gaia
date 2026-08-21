@@ -35,6 +35,10 @@
 
 ### DEPENDENCIES
 
+### Dependencies
+
+- Bump [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3 to 4 ([#411](https://github.com/mikeyhodl/gaia/pull/411))
+
 ## v27.6.0
 
 *July 17, 2026*
