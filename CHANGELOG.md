@@ -39,6 +39,10 @@
 
 ### DEPENDENCIES
 
+### Dependencies
+
+- Bump [postcss](https://github.com/postcss/postcss) from 8.5.3 to 8.5.25 ([#413](https://github.com/mikeyhodl/gaia/pull/413))
+
 ## v27.6.0
 
 *July 17, 2026*
