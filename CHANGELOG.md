@@ -23,6 +23,12 @@
 - Bump [github.com/cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) from 0.53.4 to 0.53.8 ([#4124](https://github.com/cosmos/gaia/pull/4124))
 - Bump [github.com/opencontainers/runc](https://github.com/opencontainers/runc) from 1.2.8 to 1.3.6 ([#4071](https://github.com/cosmos/gaia/pull/4071))
 
+### Dependencies
+
+- Bump minimatch from 3.1.2 to 3.1.5 ([#477](https://github.com/mikeyhodl/gaia/pull/477))
+- Bump serve-handler from 6.1.6 to 6.1.8 ([#477](https://github.com/mikeyhodl/gaia/pull/477))
+- Bump sucrase from 3.35.0 to 3.35.1 ([#477](https://github.com/mikeyhodl/gaia/pull/477))
+
 ## v28.0.0
 
 *August 7, 2026*
